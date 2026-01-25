@@ -1,5 +1,6 @@
 import os
 
+#we are using os module to get the directory
 print(os.listdir())
 
-print("Hello, World!")
+print(os.getcwd())
